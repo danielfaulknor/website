@@ -43,6 +43,10 @@ class App extends Component {
                 All messages have a fixed expiry and will be deleted
                 automatically after expiration.
               </p>
+              <h6>Single Use</h6>
+              <p>
+                Once the link is clicked, the data is permanently removed from the server
+              </p>
               <h6>No accounts needed</h6>
               <p>
                 No additional information except the encrypted secret is stored
